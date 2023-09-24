@@ -1,0 +1,2 @@
+# Genetic Prisoner
+Genetic Prisoner is a (somewhat naive) Genetic Algorithm used to generate a finite automata which plays a noisy iterated prisoner's dilemma. The automata produced ranked amongst the top automata in a course-wide tournament in CS136 at Harvard University.
